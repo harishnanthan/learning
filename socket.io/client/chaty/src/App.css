@@ -1,0 +1,44 @@
+.App {
+  width: 30vw !important;
+  border: 1px solid #181818;
+  padding: 1rem;
+}
+
+.App-header {
+  padding: .5rem;
+}
+
+input {
+  width: 300px;
+  padding: .5rem;
+  font-size: 1rem;
+}
+
+button {
+  font-size: 1rem;
+  padding: .5rem;
+  background-color: #4b75df;
+  color: #fff;
+  text-transform: capitalize;
+  border: 1px solid #000;
+  outline: none;
+  margin-left: 1rem;
+  font-weight: 900;
+}
+
+.chat_container {
+  border: 1px solid #181818;
+  margin: 1rem 0;
+  padding: .5rem;
+  max-height: 300px;
+  overflow-y: scroll;
+}
+
+p {
+  margin: .5rem;
+}
+
+.explain {
+  font-weight: 200;
+  font-size: .825rem;
+}
